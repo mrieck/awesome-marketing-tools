@@ -64,6 +64,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
+- [Social Cue](https://trysocialcue.com/?utm_source=awesome-marketing-tools&utm_medium=directory) - Claude Code plugin that finds social threads worth joining, drafts replies in your voice and schedules posts.
 
 ## Analytics
 
