@@ -98,6 +98,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [SwapDraft](https://swapdraft.com/?utm_source=awesome-marketing-tools&utm_medium=directory) - Chrome extension that rewrites only the passages you mark in a draft, with several AI models side by side.
 
 ## Customer Relationship Management (CRM)
 
